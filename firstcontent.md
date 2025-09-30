@@ -59,7 +59,7 @@ It’s like having an academic ==co-pilot== who never sleeps.
 
 “AcadNexus helped me connect with researchers across the globe and elevate my projects.” – Student, India “The AI mentor guided my career path in ways I couldn’t imagine.” – Researcher, USA “Our institution now tracks student performance and placements with zero hassle.” – Educator, UK 
 
-[^1]: Real voices. Real growth. 
+[ ^1 ]: Real voices. Real growth. 
 
  **Partners & Recognition** 
 
