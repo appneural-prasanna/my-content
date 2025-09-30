@@ -29,3 +29,4 @@
 AcadNexus Header and Footer Content Table Format
 
 | Section  | Content | Details /Notes |
+| -------  | ------- | -------------- |
