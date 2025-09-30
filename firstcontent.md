@@ -117,5 +117,16 @@ Our team is a mix of:
 1. AI experts and researchers building smart, adaptive tools. 
 
 Together, we’re shaping AcadNexus into a platform that helps every learner and institution unlock their full potential.
- 
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
 
