@@ -16,7 +16,7 @@
 
 **Catchy Opener**: Why settle for scattered apps when everything you need can live in one smart space? 
 
-> AcadNexus is more than a platform—it’s a global academic network that blends learning, research, and career growth into a single, intelligent hub. 
+AcadNexus is more than a platform—it’s a global academic network that blends learning, research, and career growth into a single, intelligent hub. 
 
 - Students get personal mentors that adapt to their needs. 
 
@@ -49,7 +49,7 @@ AcadNexus Header and Footer Content Table Format
 
 **Research AI**: Creates literature reviews, formats citations, and checks for plagiarism in seconds. 
 
-**Career AIv: Maps your skills to the best internships, certifications, and job matches. 
+**Career AIv**: Maps your skills to the best internships, certifications, and job matches. 
 
 It’s like having an academic ==co-pilot== who never sleeps. 
 
@@ -59,7 +59,7 @@ It’s like having an academic ==co-pilot== who never sleeps.
 
 “AcadNexus helped me connect with researchers across the globe and elevate my projects.” – Student, India “The AI mentor guided my career path in ways I couldn’t imagine.” – Researcher, USA “Our institution now tracks student performance and placements with zero hassle.” – Educator, UK 
 
-[^ ]Real voices. Real growth. 
+[^]: Real voices. Real growth. 
 
  **Partners & Recognition** 
 
@@ -73,6 +73,6 @@ Text: Your Academic Future Starts Here. Why wait for opportunities when you can 
 
 Buttons: [✨ Create Free Profile] | [🚀 Book a Demo] 
 
-[^]Learn. Collaborate. Grow. AcadNexus makes it happen. 
+[^]: Learn. Collaborate. Grow. AcadNexus makes it happen. 
  
 
