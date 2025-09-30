@@ -31,5 +31,10 @@ AcadNexus Header and Footer Content Table Format
 | Section  | Content | Details /Notes |
 | -------  | ------- | -------------- |
 | Header   | Logo & Branding | Acad Nexus Logo |
-|          | Primary Navigation Menu | - Home -ABout -Services -Blogs -Pricing -Contact US |
+|          | Primary Navigation Menu | - Home 
+-ABout 
+-Services 
+-Blogs 
+-Pricing 
+-Contact US |
 
