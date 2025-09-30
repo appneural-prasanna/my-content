@@ -31,7 +31,7 @@ AcadNexus Header and Footer Content Table Format
 | Section  | Content | Details /Notes |
 | -------  | ------- | -------------- |
 | Header   | Logo & Branding | Acad Nexus Logo |
-|          | Primary Navigation Menu | . Home <br> . About <br> . Services <br> . Pricing <br> . Career |
+|          | Primary Navigation Menu | - U+25CF Home <br>   - U+25CF About <br>  - U+25CF  Services <br>   - U+25CF Pricing <br>  - U+25CF Career |
 |          | User Actions / CTAs     |  **Sign Up /Create Profile** (primary CTA), **Login** (secondary CTA) |
 |          | Dropdown (Optional)     | Services dropdown → Knowledge Hub, Collaboration Space, Portfolio Builder, Career Bridge, Institutional Dashboard |
 |          | Visual Style & UX       | Sticky header on scroll, responsive mobile menu, hover animations, brand colors |
