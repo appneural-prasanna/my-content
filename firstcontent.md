@@ -110,11 +110,11 @@ Impact – Turning learning into career opportunities, so every effort leads to 
 
 Our team is a mix of:  
 
-- [1] Founders with a passion to reinvent academics. 
+1. Founders with a passion to reinvent academics. 
 
-- [2] Educators who understand real-world learning challenges.  
+1. Educators who understand real-world learning challenges.  
 
-- [3] AI experts and researchers building smart, adaptive tools. 
+1. AI experts and researchers building smart, adaptive tools. 
 
 Together, we’re shaping AcadNexus into a platform that helps every learner and institution unlock their full potential.
  
