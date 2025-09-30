@@ -1,11 +1,12 @@
-#Home Page Content 
-##Hero Section
+# Home Page Content 
+---
+## Hero Section
 **Headline**: ✨ Empowering Global Learners, Researchers, and Educators 
 **Subheadline**: One platform. Infinite possibilities. AcadNexus connects bright minds across the world—helping you learn faster, research smarter, and turn knowledge into real opportunities with the power of AI. 
 **Call-to-Action Buttons**: [🚀 Get Started] | [🎯 Book a Demo] 
 **Visual Idea**: A glowing digital globe where students, educators, and researchers are linked by sparkling connections, symbolizing knowledge flowing across borders. 
 
- ##Introduction to AcadNexus 
+ ## Introduction to AcadNexus 
 
 **Title**: The World’s Most Intelligent Academic Ecosystem 
 
@@ -13,10 +14,10 @@
 
 AcadNexus is more than a platform—it’s a global academic network that blends learning, research, and career growth into a single, intelligent hub. 
 
--Students get personal mentors that adapt to their needs. 
+- Students get personal mentors that adapt to their needs. 
 
--Researchers discover instant global collaboration. 
+- Researchers discover instant global collaboration. 
 
--Educators teach smarter with real-time insights. 
+- Educators teach smarter with real-time insights. 
 
--Institutions connect education directly to careers. 
+- Institutions connect education directly to careers. 
