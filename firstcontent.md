@@ -32,4 +32,11 @@ AcadNexus Header and Footer Content Table Format
 | -------  | ------- | -------------- |
 | Header   | Logo & Branding | Acad Nexus Logo |
 |          | Primary Navigation Menu | - Home <br> - About <br> - Services <br> - Pricing <br> - Career |
+|          | User Actions / CTAs     |  **Sign Up /Create Profile** (primary CTA), **Login** (secondary CTA) |
+|          | Dropdown (Optional)     | Services dropdown → Knowledge Hub, Collaboration Space, Portfolio Builder, Career Bridge, Institutional Dashboard |
+|          | Visual Style & UX       | Sticky header on scroll, responsive mobile menu, hover animations, brand colors |
+ | **Footer** | About AcadNexus (Brief)  | “AcadNexus is a global academic ecosystem that bridges learning, research, and career growth with AI-powered insights and collaborative opportunities for students, researchers, educators, and institutions worldwide.” |
+ |    | Quick Links  | - Home <br> - About <br> - Services <br> - Blog <br>  -Pricing <br> - Careers<br> - Contact |
+ |    | Support & Help | Help Center / FAQs · Community Forum · Email: support@acadnexus.com · Phone: +91-XXXX-XXXXXX (Mon–Fri, 9 AM–6 PM IST) , Website Link: [www.appneural.com] |
+ 
 
