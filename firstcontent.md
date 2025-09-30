@@ -51,7 +51,7 @@ AcadNexus Header and Footer Content Table Format
 
 **Career AIv**: Maps your skills to the best internships, certifications, and job matches. 
 
-It’s like having an academic ==co-pilot== who never sleeps. 
+~~It’s like having an academic ==co-pilot== who never sleeps~~. 
 
 ## 💬 Testimonials & Success Stories 
 
@@ -59,7 +59,7 @@ It’s like having an academic ==co-pilot== who never sleeps.
 
 “AcadNexus helped me connect with researchers across the globe and elevate my projects.” – Student, India “The AI mentor guided my career path in ways I couldn’t imagine.” – Researcher, USA “Our institution now tracks student performance and placements with zero hassle.” – Educator, UK 
 
-[ ^1 ]: Real voices. Real growth. 
+**Real voices. Real growth.** 
 
  **Partners & Recognition** 
 
@@ -74,7 +74,7 @@ Text
 
 Buttons: [✨ Create Free Profile] | [🚀 Book a Demo] 
 
-[^1]: Learn. Collaborate. Grow. AcadNexus makes it happen. 
+Learn. Collaborate. Grow. AcadNexus makes it happen. 
 
 # **2. About Us Page** 
 
@@ -106,13 +106,13 @@ Impact – Turning learning into career opportunities, so every effort leads to 
 
  Meet the Minds Behind AcadNexus 
 
-:joy: “Dreamers, builders, and changemakers with one goal—empowering education.” 
+“Dreamers, builders, and changemakers with one goal—empowering education.” 
 
 Our team is a mix of:  
 
- - [1]  Founders with a passion to reinvent academics. 
+- [1] Founders with a passion to reinvent academics. 
 
-- [2]  Educators who understand real-world learning challenges.  
+- [2] Educators who understand real-world learning challenges.  
 
 - [3] AI experts and researchers building smart, adaptive tools. 
 
