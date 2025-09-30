@@ -34,15 +34,15 @@ It’s like Google Scholar, LinkedIn, and Coursera rolled into one powerful engi
 
 **Intro Line**: Whether you’re studying, researching, or building careers, AcadNexus has a tool for every goal. 
 
-* 📚 Knowledge Hub: Explore courses, research papers, notes, and AI-crafted flashcards—your personal library of brilliance. 
+* **📚 Knowledge Hub:** Explore courses, research papers, notes, and AI-crafted flashcards—your personal library of brilliance. 
 
-* 🤝 Collaboration Space: Team up with mentors, join study circles, or work with researchers worldwide—because great ideas grow together. 
+* **🤝 Collaboration Space:** Team up with mentors, join study circles, or work with researchers worldwide—because great ideas grow together. 
 
-* 🎓 Portfolio Builder: Show off your skills, certifications, and projects like a digital academic resume. 
+* **🎓 Portfolio Builder**: Show off your skills, certifications, and projects like a digital academic resume. 
 
-* 🚀 Career Bridge: Let AI spot your skill gaps and match you to internships, jobs, and certifications. 
+* **🚀 Career Bridge: **Let AI spot your skill gaps and match you to internships, jobs, and certifications. 
 
-* 🏫 Institutional Dashboard: Help universities track performance, integrate LMS systems, and monitor placements in one clean view. 
+* **🏫 Institutional Dashboard:** Help universities track performance, integrate LMS systems, and monitor placements in one clean view. 
 
 From learning to career—AcadNexus is the bridge that keeps you moving forward. 
 
@@ -56,7 +56,7 @@ AI That Thinks With You: Study plans adapt to your progress, not the other way a
 
 **Smart Insights**: Track your growth with data-driven recommendations. 
 
-**Direct Career Link: **Move from classrooms to careers without losing momentum. 
+**Direct Career Link**:Move from classrooms to careers without losing momentum. 
 
 Learn smarter. Connect wider. Grow faster. 
 
@@ -77,7 +77,7 @@ From sign-up to success—it’s that smooth.
 
 **Study Assistant:** Turns heavy research papers into quick summaries, quizzes, and notes. 
 
-**Personal Mentor: **Tracks your progress and fine-tunes study plans on the go. 
+**Personal Mentor**: Tracks your progress and fine-tunes study plans on the go. 
 
 **Research AI:** Creates literature reviews, formats citations, and checks for plagiarism in seconds. 
 
@@ -93,7 +93,7 @@ It’s like having an academic co-pilot who never sleeps.
 
 Real voices. Real growth. 
 
-** Partners & Recognition **
+**** Partners & Recognition ****
 
 **Title**: Trusted by the Best 
 
@@ -157,15 +157,15 @@ Together, we’re shaping AcadNexus into a platform that helps every learner and
 
 ✨ “From a single idea to a global academic movement—here’s our story of growth.” 
 
-* 2023 – AcadNexus is founded to connect learning, research, and career growth. 
+*** 2023** – AcadNexus is founded to connect learning, research, and career growth. 
 
-* 2024 – Launch of the Knowledge Hub and AI Study Assistant, giving students smarter study tools. 
+*** 2024** – Launch of the Knowledge Hub and AI Study Assistant, giving students smarter study tools. 
 
-* 2024 – Introduction of Collaboration Space, enabling global study groups and researcher circles. 
+* **2024 – **Introduction of Collaboration Space, enabling global study groups and researcher circles. 
 
-* 2025 – Release of Portfolio Builder and Career Bridge to link skills with real job opportunities. 
+*** 2025** – Release of Portfolio Builder and Career Bridge to link skills with real job opportunities. 
 
-* 2025 – Rollout of the Institutional Dashboard, crossing 10,000+ global users and counting. 
+*** 2025 **– Rollout of the Institutional Dashboard, crossing 10,000+ global users and counting. 
 
 Every milestone takes us closer to a world where academic growth is seamless and limitless. 
 
@@ -282,85 +282,89 @@ Placement tracking to connect graduates with employers.
 **CTA Buttons:** 🌟 Start for Free | 💡 Schedule a Demo 
 
  
-4.Contact Page  
+# 4.Contact Page  
+---
+## 🌟 Hero Section – Let’s Connect 
 
-🌟 Hero Section – Let’s Connect 
+**Headline**: Have Questions? We’re Here to Help!
 
-Headline: Have Questions? We’re Here to Help!  
-Subcopy: Whether you’re a student, educator, researcher, or institution, our team is ready to guide you.  
+**Subcopy**: Whether you’re a student, educator, researcher, or institution, our team is ready to guide you.  
 
 Your next big idea starts with a simple hello. 
 
-1.Contact Form – Write to Us Anytime 
+### 1.Contact Form – Write to Us Anytime 
 
 “Your questions matter. We’ll get back within 24–48 hours.” Fill out the form below and we’ll respond as soon as possible. 
 
-Form Fields: 
+**Form Fields: **
 
-Full Name – Let’s know who’s saying hi! 
+* **Full Name** – Let’s know who’s saying hi! 
 
-Email Address – So we can write back to you fast. 
+* **Email Address** – So we can write back to you fast. 
 
-Subject / Query Type – Pick your reason—we’re all ears. 
+* **Subject / Query Type** – Pick your reason—we’re all ears. 
 
-Message Box – Share your thoughts, no detail is too small. 
+* **Message Box **– Share your thoughts, no detail is too small. 
 
-👉 CTA Button: Send Message – Hit send and let the magic begin. 
+**👉 CTA Button**: Send Message – Hit send and let the magic begin. 
 
 🔒 Your privacy is our priority. We never share your information. 
 
-2.Direct Contact Details – Reach Us Instantly 
+### 2.Direct Contact Details – Reach Us Instantly 
 
 Prefer a quick chat? We’re just a tap away. 
 
-📧 Email Support: support@acadnexus.com – Drop a line, get a smart reply. 
+* 📧 Email Support: support@acadnexus.com – Drop a line, get a smart reply. 
 
-📞 Phone: +91-XXXX-XXXXXX (Mon–Fri, 9 AM – 6 PM IST) – Call us and talk to real humans. 
+* 📞 Phone: +91-XXXX-XXXXXX (Mon–Fri, 9 AM – 6 PM IST) – Call us and talk to real humans. 
 
-💬 WhatsApp (Optional): +91-XXXXXXXXXX – Ping us for lightning-fast help. 
+* 💬 WhatsApp (Optional): +91-XXXXXXXXXX – Ping us for lightning-fast help. 
 
-⚡ Tip: Email or WhatsApp gives you the fastest response. 
+⚡** Tip: **Email or WhatsApp gives you the fastest response. 
 
-3.Office / Location Map – Come Visit Us 
+### 3.Office / Location Map – Come Visit Us 
 
-Headline: Our Headquarters AcadNexus Pvt. Ltd. 208, Radhe Plaza, Hiran Magri Sector 3, Udaipur, Rajasthan, India – 313002 
+**Headline:** Our Headquarters AcadNexus Pvt. Ltd. 208, Radhe Plaza, Hiran Magri Sector 3, Udaipur, Rajasthan, India – 313002 
 
 The hub where ideas meet action. (Embed Google Map here) Visits by appointment—we like to give you our full attention. 
 
-4.Support & Help Links – Need Instant Help? 
-Find quick answers anytime: 
+### 4.Support & Help Links – Need Instant Help? 
 
-🔗 [Help Center] – Your step-by-step guide to everything AcadNexus. 
+**Find quick answers anytime: **
 
-❓ [FAQs] – Fast fixes for common questions. 
+* 🔗 [Help Center] – Your step-by-step guide to everything AcadNexus. 
 
-💡 [Community Forum] – Ask, share, and learn with fellow users. 
+* ❓ [FAQs] – Fast fixes for common questions. 
+
+* 💡 [Community Forum] – Ask, share, and learn with fellow users. 
 
 ✨ Help is just one click away. 
 
-5.Social Media Links – Join Our Global Academic Network 
-Follow us for updates, events, and collaboration opportunities: 
+### 5.Social Media Links – Join Our Global Academic Network 
 
-LinkedIn: AcadNexus Official – Where professionals and ideas meet. 
+**Follow us for updates, events, and collaboration opportunities: **
 
-Twitter (X): @AcadNexus – Quick updates, smart insights. 
+* **LinkedIn: **AcadNexus Official – Where professionals and ideas meet. 
 
-Instagram: @AcadNexus – Snapshots of learning in action. 
+* **Twitter (X):** @AcadNexus – Quick updates, smart insights. 
 
-Facebook: AcadNexus – Connect. Share. Grow. 
+* **Instagram:** @AcadNexus – Snapshots of learning in action. 
 
-YouTube: AcadNexus Academy – Watch, learn, and be inspired. 
+*** Facebook:** AcadNexus – Connect. Share. Grow. 
+
+* **YouTube**: AcadNexus Academy – Watch, learn, and be inspired. 
 
 Stay connected. Stay ahead. 
 
- Call-to-Action Band – Let’s Shape the Future Together 
+** Call-to-Action Band **– Let’s Shape the Future Together
+
 “Let’s build the future of academics—starting today.” 
 
- CTA Buttons: Start Free – Your journey begins now | Book a Demo – See the magic in action 
+** CTA Buttons:** Start Free – Your journey begins now | Book a Demo – See the magic in action 
 
-5.Blog Page Content  
+### 5.Blog Page Content  
  
-Hero Section – “Ideas That Spark the Future of Learning” 
+**Hero Section** – “Ideas That Spark the Future of Learning” 
 
 ✨ Discover. Learn. Grow. Welcome to the AcadNexus Blog—your one-stop space for academic trends, AI-powered research tips, career growth hacks, and practical guides. 
 
