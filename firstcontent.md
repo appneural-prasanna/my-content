@@ -93,7 +93,7 @@ It’s like having an academic co-pilot who never sleeps.
 
 Real voices. Real growth. 
 
-**** Partners & Recognition ****
+**Partners & Recognition **
 
 **Title**: Trusted by the Best 
 
@@ -157,15 +157,15 @@ Together, we’re shaping AcadNexus into a platform that helps every learner and
 
 ✨ “From a single idea to a global academic movement—here’s our story of growth.” 
 
-*** 2023** – AcadNexus is founded to connect learning, research, and career growth. 
+* 2023 – AcadNexus is founded to connect learning, research, and career growth. 
 
-*** 2024** – Launch of the Knowledge Hub and AI Study Assistant, giving students smarter study tools. 
+*  2024 – Launch of the Knowledge Hub and AI Study Assistant, giving students smarter study tools. 
 
-* **2024 – **Introduction of Collaboration Space, enabling global study groups and researcher circles. 
+* 2024 – Introduction of Collaboration Space, enabling global study groups and researcher circles. 
 
-*** 2025** – Release of Portfolio Builder and Career Bridge to link skills with real job opportunities. 
+* 2025 – Release of Portfolio Builder and Career Bridge to link skills with real job opportunities. 
 
-*** 2025 **– Rollout of the Institutional Dashboard, crossing 10,000+ global users and counting. 
+* 2025 – Rollout of the Institutional Dashboard, crossing 10,000+ global users and counting. 
 
 Every milestone takes us closer to a world where academic growth is seamless and limitless. 
 
@@ -239,7 +239,7 @@ Download a ready-to-use academic CV.
 
 “One platform, endless possibilities for institutions.” A complete toolkit for institutions to teach, track, and support students.  
 
-****Key Highlights: ****
+**Key Highlights: **
 
 Seamless LMS integration for smooth course delivery. 
 
@@ -252,7 +252,6 @@ Placement tracking to connect graduates with employers.
 ### 6.AI Integrations – Intelligence at Every Step 
 
 🤖 “AI that works like your personal academic assistant.” AI powers every AcadNexus service to make learning smarter: 
-
 
 * **Study Assistant**: Summarizes research, creates quizzes, and generates notes. 
 
@@ -281,8 +280,7 @@ Placement tracking to connect graduates with employers.
 🌠 “The future of academics is here—be part of it today.”  
 **CTA Buttons:** 🌟 Start for Free | 💡 Schedule a Demo 
 
- 
-# 4.Contact Page  
+ # 4.Contact Page  
 ---
 ## 🌟 Hero Section – Let’s Connect 
 
@@ -344,13 +342,13 @@ The hub where ideas meet action. (Embed Google Map here) Visits by appointment�
 
 **Follow us for updates, events, and collaboration opportunities: **
 
-* **LinkedIn: **AcadNexus Official – Where professionals and ideas meet. 
+* **LinkedIn**:AcadNexus Official – Where professionals and ideas meet. 
 
 * **Twitter (X):** @AcadNexus – Quick updates, smart insights. 
 
 * **Instagram:** @AcadNexus – Snapshots of learning in action. 
 
-*** Facebook:** AcadNexus – Connect. Share. Grow. 
+* ** Facebook**:AcadNexus – Connect. Share. Grow. 
 
 * **YouTube**: AcadNexus Academy – Watch, learn, and be inspired. 
 
@@ -362,8 +360,8 @@ Stay connected. Stay ahead.
 
 ** CTA Buttons:** Start Free – Your journey begins now | Book a Demo – See the magic in action 
 
-### 5.Blog Page Content  
- 
+# 5.Blog Page Content  
+ ---
 **Hero Section** – “Ideas That Spark the Future of Learning” 
 
 ✨ Discover. Learn. Grow. Welcome to the AcadNexus Blog—your one-stop space for academic trends, AI-powered research tips, career growth hacks, and practical guides. 
@@ -372,13 +370,13 @@ Stay connected. Stay ahead.
 
 Featured / Latest Posts – “Fresh Reads, Big Insights” 
 
-Stay ahead with trending stories and smart takeaways: 
+**Stay ahead with trending stories and smart takeaways: 
+**
+* 🚀 AI as Your Personal Mentor – How AI is redefining personalized learning. 
 
-🚀 AI as Your Personal Mentor – How AI is redefining personalized learning. 
+* 🌐 Future of Research Collaboration – Why global networks matter more than ever. 
 
-🌐 Future of Research Collaboration – Why global networks matter more than ever. 
-
-🎯 Career-Ready Skills 2025 – Top emerging skills every student needs today. 
+* 🎯 Career-Ready Skills 2025 – Top emerging skills every student needs today. 
 
 🏆 Winning Academic Portfolio – Tips to shine in scholarships, internships & grants. 
 
@@ -386,22 +384,22 @@ Stay ahead with trending stories and smart takeaways:
 
 Categories & Tags – “Find What Moves You” 
 
-🔹 AI in Education – Smarter ways to learn with machine learning.  
-🔹 Research Trends – Stay on top of cutting-edge discoveries 
-🔹 Career Growth – Skills, interviews, and future jobs decoded. 
-🔹 Student Guides – Study hacks, exam prep & productivity boosters.  
-🔹 Case Studies – Inspiring success stories from real learners & researchers. 
+*  AI in Education – Smarter ways to learn with machine learning.  
+*  Research Trends – Stay on top of cutting-edge discoveries 
+*  Career Growth – Skills, interviews, and future jobs decoded. 
+*  Student Guides – Study hacks, exam prep & productivity boosters.  
+*  Case Studies – Inspiring success stories from real learners & researchers. 
 
 ✨ Browse, click, and explore your next big idea. 
 
 Guides & Tutorials – “Learn It. Do It. Master It.” 
 
-Step-by-step resources to level up: 
+**Step-by-step resources to level up: **
  
- 📚 Create AI-Generated Study Notes in Minutes  
-📝 Build a Research Portfolio Like a Pro  
-📖 Master Citations & Literature Reviews with AI  
-🌎 Find Global Research Partners with AcadNexus 
+*  📚 Create AI-Generated Study Notes in Minutes  
+* 📝 Build a Research Portfolio Like a Pro  
+* 📖 Master Citations & Literature Reviews with AI  
+* 🌎 Find Global Research Partners with AcadNexus 
 
 🎯 Simple guides with powerful results. 
 
@@ -412,10 +410,10 @@ Case Studies / Success Stories – “Real People. Real Impact.”
  University Upgrade – How XYZ University boosted engagement with Career Bridge.  
 
  AI in Action – A PhD scholar slashed weeks of research into days using our AI tools. 
+**
+🌟 Your success story could be next. **
 
-🌟 Your success story could be next. 
-
-Newsletter Signup – “Stay Smarter Every Week” 
+Newsletter Signup – **“Stay Smarter Every Week” **
 
 📩 Never miss an update! Subscribe to the AcadNexus Newsletter for AI tools, research trends & exclusive guides—straight to your inbox.  
  
@@ -425,231 +423,156 @@ Search Bar – “Find It Fast”
 
 🔍 Looking for something specific? Use our smart AI-powered search to discover articles, guides, or research tips in seconds. 
 
-6. Pricing Page – Simple & Transparent 
+# 6. Pricing Page – Simple & Transparent 
+---
 
-Hero Section – Smart Learning, Clear Pricing 
+**Hero Section **– Smart Learning, Clear Pricing 
 
-📚 Pick a plan that grows with you. Whether you’re a curious student, a passionate researcher, or an entire institution, AcadNexus offers plans that keep your learning limitless. ✅ No hidden fees. ✅ Upgrade anytime. 
+📚 Pick a plan that grows with you. Whether you’re a curious student, a passionate researcher, or an entire institution, AcadNexus offers plans that keep your learning limitless. ✅ No hidden fees.
 
-Free Plan – ₹0 / month 
+**✅ Upgrade anytime. **
 
-Ideal for students starting their journey. 
+## Free Plan – ₹0 / month 
 
-Limited access to the Knowledge Hub 
+* Ideal for students starting their journey. 
 
-Basic AI Study Assistant 
+* Limited access to the Knowledge Hub 
 
-Personal Academic Portfolio 
+* Basic AI Study Assistant 
 
-Access to Community Forums 
+* Personal Academic Portfolio 
 
-5 AI summaries per month 
+* Access to Community Forums 
+
+* 5 AI summaries per month 
 
 💡 Perfect for exploring the platform and getting a taste of AI-powered learning. 
 
-Student Premium – ₹XXX / month 
+## Student Premium – ₹XXX / month 
 
-Designed for students who want to level up. 
+* Designed for students who want to level up. 
 
-Unlimited AI summaries and flashcards 
+* Unlimited AI summaries and flashcards 
 
-Personal Mentor AI with adaptive study plans 
+* Personal Mentor AI with adaptive study plans 
 
-Career Bridge with skill gap analysis and job/internship suggestions 
+* Career Bridge with skill gap analysis and job/internship suggestions 
 
-Downloadable notes and research guides 
+* Downloadable notes and research guides 
 
-Early access to new features 
+* Early access to new features 
 
 ⚡ Go beyond basics and learn smarter, faster, and deeper. 
 
-Researcher Plan – ₹XXX / month 
+## Researcher Plan – ₹XXX / month 
 
-Created for advanced researchers and academicians. 
+* Created for advanced researchers and academicians. 
 
-AI-powered research tools including literature review generator and citation formatter 
+* AI-powered research tools including literature review generator and citation formatter 
 
-Unlimited collaboration spaces 
+* Unlimited collaboration spaces 
 
-Advanced Knowledge Hub with exclusive research papers 
+* Advanced Knowledge Hub with exclusive research papers 
 
-AI plagiarism checker 
+* AI plagiarism checker 
 
-Research project portfolio builder 
+* Research project portfolio builder 
 
-🔬 Accelerate your research and publish with confidence. 
+* 🔬 Accelerate your research and publish with confidence. 
 
-Institutional Plan – Custom Pricing 
+## Institutional Plan – Custom Pricing 
 
-Tailored for universities, colleges, and academic organizations. 
+* Tailored for universities, colleges, and academic organizations. 
 
-Full LMS integration 
+* Full LMS integration 
 
-Institution-wide AI dashboard 
+* Institution-wide AI dashboard 
 
-Student career tracking and placement analytics 
+* Student career tracking and placement analytics 
 
-Multi-user management and admin controls 
+* Multi-user management and admin controls 
 
-Dedicated support and training 
+* Dedicated support and training 
 
-🏛️ A complete AI solution to transform academic operations. 
+* 🏛️ A complete AI solution to transform academic operations. 
 
-Special Offers 
+### Special Offers 
 
-🎉 Early Bird Offer – 20% off Student Premium for the first 3 months.  
-🎁 Annual Savings – Get 2 months free when you pay yearly.  
-🏫 Institutional Discounts – Contact us for custom packages. 
+* 🎉 Early Bird Offer – 20% off Student Premium for the first 3 months.  
+* 🎁 Annual Savings – Get 2 months free when you pay yearly.  
+* 🏫 Institutional Discounts – Contact us for custom packages. 
 
- 
+** FAQs **
 
-FAQs 
-
-1.Can I cancel anytime?  
+**1.Can I cancel anytime?  **
  Yes, you can cancel or switch plans whenever you like. 
  
- 2.Is there a free trial? 
+** 2.Is there a free trial? **
  Absolutely! Enjoy a 7-day free trial for Student Premium or Researcher plans 
  
-3.Do students get discounts?  
+**3.Do students get discounts?  **
 Yes, students enjoy special pricing on individual plans. 
 
-Call to Action 
+**Call to Action **
 
-🚀 Start your journey today. [ Get Started – Free ]  
-• [ Upgrade to Premium ]  
-• [ Request Institutional Demo ] 
+* 🚀 Start your journey today. [ Get Started – Free ]  
+* [ Upgrade to Premium ]  
+* [ Request Institutional Demo ] 
 
-7. Careers Page – Build the Future with Us 
-
-Hero Section – Shape Tomorrow’s Learning, Today 
+# 7. Careers Page – Build the Future with Us 
+--- 
+**Hero Section** – Shape Tomorrow’s Learning, Today 
 
 💡 Your skills. Your ideas. Your impact. Join AcadNexus and help reinvent how the world learns, researches, and grows. [ Explore Open Roles → ] 
 
-Why Work With Us 
+## Why Work With Us 
 
-🌍 Purpose-Driven Work – Build products that empower millions of students and researchers worldwide. 
+* 🌍 Purpose-Driven Work – Build products that empower millions of students and researchers worldwide. 
 
-⚡ Innovation First – Collaborate with AI-driven tools and cutting-edge technology. 
+* ⚡ Innovation First – Collaborate with AI-driven tools and cutting-edge technology. 
 
-🕒 Flexible Culture – Remote-friendly roles and flexible schedules. 
+* 🕒 Flexible Culture – Remote-friendly roles and flexible schedules. 
 
-📈 Growth & Learning – Access to mentorship, workshops, and career development programs. 
+* 📈 Growth & Learning – Access to mentorship, workshops, and career development programs. 
 
-💜 Inclusive Environment – We celebrate diversity and welcome ideas from every voice. 
+* 💜 Inclusive Environment – We celebrate diversity and welcome ideas from every voice. 
 
-Open Positions 
+### Open Positions 
 
-Tech & Product  
+**Tech & Product  **
 
-Front-End Developer (React/Next.js) – Remote/Hybrid  
+* Front-End Developer (React/Next.js) – Remote/Hybrid  
 
-Back-End Developer (Node.js/Spring Boot) – Remote/Hybrid 
+* Back-End Developer (Node.js/Spring Boot) – Remote/Hybrid 
 
- AI/ML Engineer – Remote/Hybrid 
+* AI/ML Engineer – Remote/Hybrid 
 
-Content & Education 
+**Content & Education **
+
 Academic Content Creator – Remote Research Analyst – Remote 
 
-Business & Operations  
+**Business & Operations **
+
 Marketing Executive – Remote/Hybrid HR & Talent Acquisition Specialist – Udaipur/Remote 
 
 💌 Don’t see the right role? Send your resume to careers@acadnexus.com to be considered for future opportunities. 
 
-Growth & Learning Opportunities 
+### Growth & Learning Opportunities 
 
-🎯 Mentorship Programs – Learn from experienced industry leaders and educators. 
+* 🎯 Mentorship Programs – Learn from experienced industry leaders and educators. 
 
-💡 Internal Workshops – Upskill with AI, education trends, and career development. 
+* 💡 Internal Workshops – Upskill with AI, education trends, and career development. 
 
-🤝 Cross-Functional Projects – Collaborate across tech, research, and business teams to build impactful solutions. 
+* 🤝 Cross-Functional Projects – Collaborate across tech, research, and business teams to build impactful solutions. 
 
-Call to Action 
+**Call to Action **
 
-🌟 Bring your passion for education and technology to a team that’s shaping the future.  
+**🌟 Bring your passion for education and technology to a team that’s shaping the future. ** 
     [ Apply Now → ]  
 • [ Connect on LinkedIn → ] 
 
  
 
-Section 
-
-Content 
-
-Details / Notes 
-
-Header 
-
-Logo & Branding 
-
-AcadNexus logo (left-aligned) + optional tagline: “Empowering Learners, Researchers & Educators Globally” 
-
- 
-
-Primary Navigation Menu 
-
-Home · About · Services · Blog · Pricing · Careers · Contact 
-
- 
-
-User Actions / CTAs 
-
-Sign Up / Create Profile (primary CTA), Login (secondary CTA) 
-
- 
-
-Dropdown (Optional) 
-
-Services dropdown → Knowledge Hub, Collaboration Space, Portfolio Builder, Career Bridge, Institutional Dashboard 
-
- 
-
-Visual Style & UX 
-
-Sticky header on scroll, responsive mobile menu, hover animations, brand colors 
-
-Footer 
-
-About AcadNexus (Brief) 
-
-“AcadNexus is a global academic ecosystem that bridges learning, research, and career growth with AI-powered insights and collaborative opportunities for students, researchers, educators, and institutions worldwide.” 
-
- 
-
-Quick Links 
-
-Home · About · Services · Blog · Pricing · Careers · Contact 
-
- 
-
-Support & Help 
-
-Help Center / FAQs · Community Forum · Email: support@acadnexus.com · Phone: +91-XXXX-XXXXXX (Mon–Fri, 9 AM–6 PM IST) 
-
- 
-
-Social Media Links 
-
-LinkedIn: AcadNexus Official · Twitter (X): @AcadNexus · Instagram: @AcadNexus · Facebook: AcadNexus · YouTube: AcadNexus Academy 
-
- 
-
-Newsletter Signup 
-
-Text: “Stay ahead with updates on AI in education, research trends, and career tips. Subscribe to our newsletter.” + Email input box + Subscribe button 
-
- 
-
-Legal & Miscellaneous 
-
-Privacy Policy · Terms & Conditions · Cookie Policy  
-© 2025 AcadNexus Pvt. Ltd. All Rights Reserved. 
-
- 
-
-Visual Style & UX 
-
-Consistent brand theme, responsive columns, hover effects, clear typography 
 
  
 
