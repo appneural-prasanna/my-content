@@ -573,6 +573,7 @@ Marketing Executive – Remote/Hybrid HR & Talent Acquisition Specialist – Uda
 
  
 🧾 **Work Discussion Meeting Summary**
+
 **Date:** November 7, 2025
 **Time:** 5:20 AM
 **Project:** ScanQuizzy
@@ -619,9 +620,7 @@ The team discussed the structure, purpose, and responsibilities for developing e
 | Draft the 4 core Planning Documents (BRD, FRS, Architecture, Execution Plan) | Prasanna Bai           | Prepare initial drafts and align with project objectives | Within 3 days          |
 | Create Business, Brand, and Management Document outlines                     | Prasanna Bai           | Define structure and purpose of each document            | Within 3 days          |
 | Review document drafts                                                       | Khushbu Agarwal        | Provide feedback and approve for GitHub upload           | After draft submission |
-| Refine mobile app and ERP screen designs                                     | Sapna Prajapat         | Implement suggested design updates                       | Within 3 days          |
 
----
 
 🧩 **Summary**
 The team finalized the plan to create four core **Planning Documents** and three supporting **management documents** to strengthen project documentation.
