@@ -572,6 +572,61 @@ Marketing Executive – Remote/Hybrid HR & Talent Acquisition Specialist – Uda
 • [ Connect on LinkedIn → ] 
 
  
+🧾 **Work Discussion Meeting Summary**
+**Date:** November 7, 2025
+**Time:** 5:20 AM
+**Project:** ScanQuizzy
+**Participants:** Khushbu Agarwal, Prasanna Bai, Ajay, Sapna Prajapat
+
+---
+
+🧭 **Overview**
+The meeting focused on the creation of core **Planning Documents** for the ScanQuizzy project and a detailed discussion on the **mobile app screens** designed by Sapna.
+The team discussed the structure, purpose, and responsibilities for developing essential planning and management documents to ensure a smooth project flow.
+
+---
+
+💬 **Discussed Points**
+
+**Planning Documents**
+
+* The team discussed the need to create four key planning documents for the project’s next phase:
+  ✅ **Business Requirements Document (BRD):** To define the business goals, problem statement, target users, and expected outcomes.
+  ✅ **Functional Requirement Specification (FRS):** To describe module-wise functional details, data flow, and user interaction points.
+  ✅ **System Architecture & Database Schema Outline:** To represent technical design, architecture layers, and database structure.
+  ✅ **Project Execution Plan:** To outline the timeline, resource allocation, sprint planning, and task milestones.
+
+* Additionally, the team planned to maintain three document categories for structured documentation:
+  📘 **Business Document** – Covering vision, scope, and objectives.
+  🎨 **Brand Document** – Covering app design theme, color palette, and UI/UX guidelines.
+  🧩 **Management Document** – Covering SDLC process, workflow tracking, and task management.
+
+* Prasanna will prepare the draft structure for each document and share it for review before uploading to GitHub.
+
+**Mobile App Screens**
+
+* Sapna presented the **mobile app screen designs** for both the **user interface** and **ERP modules**.
+* The designs included layouts for **Dashboard, Quiz Module, Reports, and Settings.**
+* Khushbu appreciated the design clarity and suggested ensuring uniformity between app and ERP UI elements.
+* Final refinements will be made based on feedback before the next review session.
+
+---
+
+✅ **Action Points with Responsibilities**
+
+| **Action Item**                                                              | **Responsible Person** | **Details**                                              | **Timeline**           |
+| ---------------------------------------------------------------------------- | ---------------------- | -------------------------------------------------------- | ---------------------- |
+| Draft the 4 core Planning Documents (BRD, FRS, Architecture, Execution Plan) | Prasanna Bai           | Prepare initial drafts and align with project objectives | Within 3 days          |
+| Create Business, Brand, and Management Document outlines                     | Prasanna Bai           | Define structure and purpose of each document            | Within 3 days          |
+| Review document drafts                                                       | Khushbu Agarwal        | Provide feedback and approve for GitHub upload           | After draft submission |
+| Refine mobile app and ERP screen designs                                     | Sapna Prajapat         | Implement suggested design updates                       | Within 3 days          |
+
+---
+
+🧩 **Summary**
+The team finalized the plan to create four core **Planning Documents** and three supporting **management documents** to strengthen project documentation.
+Sapna’s **mobile app screen designs** were reviewed and appreciated, with minor design improvements suggested.
+Next meeting will focus on reviewing the drafted documents and updated app screens.
 
 
  
